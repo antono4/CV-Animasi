@@ -1,2 +1,26 @@
-Last updated: 2026-08-21 02:08:45 WIB
-Last updated: 2026-08-21 02:20:05 WIB
+# CV-Animasi
+
+
+
+## 📋 Overview
+
+This repository contains **38 files** and is built with the following technologies:
+
+HTML, CSS
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML, CSS
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-21 02:25:00 WIB*
